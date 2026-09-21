@@ -1,0 +1,28 @@
+[
+  {
+    "id": "sample-once-upon",
+    "title": "Once Upon a Quiet Evening",
+    "description": "A short illustrated tale about lantern light, old libraries, and the stories we keep. Includes a sample PDF chapter you can download after purchase (demo checkout works without Stripe).",
+    "priceCents": 799,
+    "type": "pdf",
+    "coverUrl": "/uploads/samples/once-upon-cover.svg",
+    "fileUrl": "/uploads/samples/once-upon-sample.pdf.txt",
+    "fileName": "once-upon-a-quiet-evening.txt",
+    "active": true,
+    "createdAt": "2026-09-01T12:00:00.000Z",
+    "updatedAt": "2026-09-01T12:00:00.000Z"
+  },
+  {
+    "id": "sample-fireside-audio",
+    "title": "Fireside Reading — Audio Sampler",
+    "description": "A warm spoken-word sampler: crackling fireplace ambience with a short reading from the archives. Demo file is a tiny placeholder text standing in for audio.",
+    "priceCents": 499,
+    "type": "audio",
+    "coverUrl": "/uploads/samples/fireside-cover.svg",
+    "fileUrl": "/uploads/samples/fireside-sampler.txt",
+    "fileName": "fireside-reading-sampler.txt",
+    "active": true,
+    "createdAt": "2026-09-01T12:00:00.000Z",
+    "updatedAt": "2026-09-01T12:00:00.000Z"
+  }
+]
