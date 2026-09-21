@@ -1,10 +1,10 @@
 {
   "name": "astoryasoldastime",
-  "install": "npm ci",
+  "install": "cd /agent/repos/astoryasoldastime && npm ci",
   "terminals": [
     {
       "name": "next-dev",
-      "command": "npm run dev",
+      "command": "cd /agent/repos/astoryasoldastime && npm run dev",
       "description": "Next.js dev server (Turbopack) on http://localhost:3000. Runs in Demo checkout mode unless Stripe/Blob env vars are set."
     }
   ],
